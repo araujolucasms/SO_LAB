@@ -1,6 +1,4 @@
-Integrantes do Grupo
-  Luana Mihu
-  Lucas Araújo
+Integrantes do Grupo Luana Mihu Lucas Araújo.
 
 O programa é um repositório do git.
 
