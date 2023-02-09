@@ -2,7 +2,7 @@ Integrantes do Grupo
   Luana Mihu
   Lucas Araújo
 
-Como compilar o programa na plataforma disponibilizada;
+O programa é um repositório do git.
 
 Como executar o programa;
 
